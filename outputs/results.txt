@@ -1,0 +1,12 @@
+Best Parameters: {'svm__C': 10, 'svm__gamma': 0.001, 'svm__kernel': 'rbf'}
+Best CV Score: 0.7150
+Test Accuracy: 0.7350
+
+              precision    recall  f1-score   support
+
+           0       0.72      0.77      0.74       200
+           1       0.75      0.70      0.73       200
+
+    accuracy                           0.73       400
+   macro avg       0.74      0.73      0.73       400
+weighted avg       0.74      0.73      0.73       400

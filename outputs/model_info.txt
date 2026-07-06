@@ -1,0 +1,5 @@
+Best Parameters
+{'svm__C': 10, 'svm__gamma': 0.001, 'svm__kernel': 'rbf'}
+
+Cross Validation Accuracy
+0.7220000000000001
